@@ -5,3 +5,14 @@ Author: Dereje.G, Loïc.K
 Template: colibri-wp
 Version: 1.0.88
 */
+
+h1{
+    color: whitesmoke !important; 
+}
+
+#about{
+    background-color: #f5fafd !important;
+}
+#overlappable{
+    background-color: #f5fafd;
+}
