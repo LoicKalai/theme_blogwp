@@ -16,3 +16,28 @@ h1{
 #overlappable{
     background-color: #f5fafd;
 }
+
+[aria-current="page"]{
+    color: #a1d2f6 !important;
+}
+#menu-nav li a{
+    color: #a1d2f6 !important;
+}
+#colibri .style-9 > div > .colibri-menu-container > ul.colibri-menu.bordered-active-item > li::after, #colibri .style-9 ul.colibri-menu.bordered-active-item > li::before {
+    background-color: rgb(166, 220, 244) !important;
+    background-image: none !important;
+    height: 3px !important;
+}
+
+#testimonials{
+    background-color: #f5fafd !important;
+}
+path{
+    fill: #a1d2f6;
+}
+[data-in-sticky-state="true"]{
+    background-color: #f5fafd !important;
+}
+[data-colibri-id="75-c36"]{
+    background-color: #a1d2f6;
+}
